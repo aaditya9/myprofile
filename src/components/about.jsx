@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p>I am working with tools like Jenkins, Docker, K8s</p>
                 </div>
                 </div>
             </div>
