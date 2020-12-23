@@ -34,7 +34,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Masters at SPPUCSD<span> 2013-2017</span></h2>
-                        <p>I am completed my Masters studies with major in (Computer Science). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.</p>
+                        <p>I done my Masters studies with major in (Computer Science). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.</p>
                       </div>
                     </div>
                   </article>
